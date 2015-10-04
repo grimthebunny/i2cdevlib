@@ -45,6 +45,7 @@ THE SOFTWARE.
 
 #ifndef _I2CDEV_H_
 #define _I2CDEV_H_
+#define BUFFER_LENGTH 32
 
 // -----------------------------------------------------------------------------
 // I2C interface implementation setting
